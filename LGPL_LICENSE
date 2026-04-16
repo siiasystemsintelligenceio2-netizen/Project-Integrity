@@ -1,0 +1,83 @@
+GNU LESSER GENERAL PUBLIC LICENSE
+                      Version 3, 29 June 2007
+
+ Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
+ Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+
+                         Preamble
+
+ The GNU Lesser General Public License is a free software license that allows developers to use and integrate pieces of software licensed under it into their own (even proprietary) software without being forced to license their own software under the GNU General Public License (GPL).  This license is often used for libraries, allowing them to be linked with proprietary software without compromising the proprietary nature of the larger work.
+
+                        TERMS AND CONDITIONS
+
+ 0. Definitions.
+
+ "This License" refers to version 3 of the GNU Lesser General Public License.
+ "Copyright" also means copyright-like rights applicable to your country.
+ "The Library" refers to a covered work governed by this License, other than an Application or a Combined Work as defined below.
+ "The API" refers to the application programming interface of The Library.
+ "The Combined Work" is a work produced by combining or linking The Library with the Application or portions thereof.
+ "The Application" is any work that makes use of The Library, but is not itself a Library.
+
+ 1. Source Code.
+
+ The source code for a work should be included, either in the same form as the executable program, or in some other machine-readable form.
+
+ 2. Basic Permissions.
+
+ Everyone is permitted to copy, modify, and redistribute the Library after the rights are granted under this License. If you distribute the Library in any form, you must pass on the same rights it entails.
+
+ 3. Protecting Users' Rights.
+
+ You must make sure that everyone else also receives or can get the source code. You must clearly communicate that the Library is available under this License, and you must keep intact all notices stating that this License applies.
+
+ 4. Conveying Non-Source Forms.
+
+ You may convey non-source forms by including a copy of this License with them. You must keep intact all notices stating that this License applies.
+
+ 5. Combined Works.
+
+ You may create a Combined Work by linking The Library to your Application. An Application that includes a Combined Work in its distribution must comply with the terms of this License. You must keep intact all notices stating that this License applies.
+
+ 6. No Warranty.
+
+ The Library is provided under this License on an "as-is" basis, without warranty of any kind. You should provide a similar disclaimer in any combined works.
+
+ 7. Acceptance.
+
+ The User accepts this License by using The Library. If the User does not accept this License, the User cannot use The Library.
+
+ 8. Termination.
+
+ If you violate this License, the permissions granted to you will be revoked automatically.
+
+ 9. Future Versions.
+
+ The Free Software Foundation may publish new versions of the GNU Lesser General Public License. You can always choose to apply the terms and conditions of the most recent version.
+
+ 10. Disclaimer of Warranty.
+
+ THERE IS NO WARRANTY FOR THE LIBRARY, EXCEPT AS EXPRESSLY SET FORTH IN THIS LICENSE.  THE LIBRARY IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTY OF ANY KIND.
+
+ 11. Limitation of Liability.
+
+ IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS THE LIBRARY, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE LIBRARY, EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+ 12. Interpretation of Sections 10 and 11.
+
+ If the disclaimer of warranty and limitation of liability provided in this License fails of its essential purpose, the remaining sections of this License shall remain in effect.
+
+                       END OF TERMS AND CONDITIONS
+
+ How to Apply These Terms to Your New Libraries
+
+ If you develop a new library, and you want it to be of benefit to the public, the best way to achieve this goal is to use the GNU Lesser General Public License.  The best way to apply this License is to make the library unmodifiable and release it to the public.
+
+ To apply this License to your library, just copy and paste this entire license document into your library file.  After doing this, you should add the following information at the beginning of the file:
+
+  Copyright (C) [year]  [your name]
+  License: GNU Lesser General Public License version 3 or later
+
+[NOTE: The text of the license must be included in all copies or substantial portions of The Library.]
+
+
