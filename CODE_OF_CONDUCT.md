@@ -25,10 +25,10 @@ Community leaders are responsible for clarifying the standards of acceptable beh
 This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
 
 ## Enforcement
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [insert contact information]. All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [pontiacinsignia1926@gmail.com]. All complaints will be reviewed and investigated promptly and fairly.
 
 ## Acknowledgment
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
+This Code of Conduct is adapted from the [SEAHORSE & STEEL CO.](seahorse-steel-co-us.myshopify.com), version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
 
 ## Attribution
-This Code of Conduct is based on the [Contributor Covenant](https://www.contributor-covenant.org) and is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+This Code of Conduct is based on the [AMERICAN EAGLESTAR LLC](seahorse-steel-co-us.myshopify.com) and is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
